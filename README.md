@@ -1,11 +1,11 @@
 # Cartography Projects
 
-This repository contains projects from my Intro to Cartography course, GEOG 370. Each project highlights different aspects of cartographic design, GIS, and data visualization. The projects were created using **ArcGIS Pro**, **Adobe Illustrator**, and various online tools such as Projection Wizard and Mapshaper.
+The above projects were completed as part of an Intro to Cartography course, GEOG 370. Each project highlights different aspects of cartographic design, GIS, and data visualization. The projects were created using **ArcGIS Pro**, **Adobe Illustrator**, and various online tools such as Projection Wizard and Mapshaper.
 
 ---
 
 ## Lab 1: Vermont Maple Syrup Farms
-This was my first design project using Adobe Illustrator. I developed skills with geospatial datasets, adjusting map projections (Projection Wizard), and cartographic generalization (Mapshaper).  
+This was my first design project using ArcGIS Pro. I developed foundational skills with geospatial datasets, adjusting map projections (Projection Wizard), and cartographic generalization (Mapshaper).  
 
 **Challenges:**  
 - Ensuring text was legible around lines and polygons (e.g., lake and river labels)  
@@ -44,7 +44,7 @@ This self-driven project combined all the material covered in the course: cartog
 
 **Data & Methods:**  
 - 1938 Home Owners’ Loan Corporation (HOLC) redlining map of Milwaukee  
-- School report card data from the Wisconsin Department of Public Instruction  
+- Statewide school report card data from the Wisconsin Department of Public Instruction  
 - Data cleaning and categorization in Microsoft Excel to create school quality groups (five levels)  
 - ArcGIS Pro used for:  
   - Choropleth mapping of redlining zones (A–D)  
