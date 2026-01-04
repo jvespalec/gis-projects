@@ -18,9 +18,9 @@ The purpose of this map was to show a high level of detail in a small space whil
 
 **Challenges:**  
 - Label positioning relative to points of interest:  
-  - Too far → unclear which feature it belonged to  
-  - Too close → cluttered or overlapping other features  
-  - On top of lines → letters became difficult to read  
+  - Too far away, so it was unclear which feature it belonged to  
+  - Too close, so it looked cluttered or was overlapping other features  
+  - On top of lines, so letters became difficult to read  
 
 ---
 
