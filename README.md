@@ -25,7 +25,7 @@ The purpose of this map was to show a high level of detail in a small space whil
 ---
 
 ## Lab 3: Dairy Cow Density in Wisconsin
-This project was a **choropleth map illustrating the density of dairy cows in Wisconsin counties**.  
+This project was a choropleth map illustrating the density of dairy cows in Wisconsin counties.  
 
 **Techniques used in ArcGIS Pro:**  
 - Data classification  
@@ -54,12 +54,8 @@ This self-driven project combined all the material covered in the course: cartog
 - Adobe Illustrator used for final map design and finishing touches  
 
 **Maps Produced:**  
-- Choropleth map of original HOLC redlining boundaries with school quality symbols  
+- Choropleth map of original HOLC redlining boundaries with school quality data by district  
 - Proximity/heat map showing a lack of accessibility to highly rated schools in relation to redlined areas  
-
-**Reflection:**  
-This project helped me connect historical geographies with present-day educational disparities. While the maps do not capture every social or economic factor, they illustrate how the legacy of redlining continues to influence access to high-quality schools in Milwaukee County. I was proud of how this project allowed me to merge technical GIS skills with a socially meaningful topic.
-
 ---
 
 ##
