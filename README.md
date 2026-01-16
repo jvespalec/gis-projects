@@ -1,4 +1,4 @@
-# Cartography Projects
+# Cartography Projects (GEOG 370: Intro to Cartography)
 
 The above projects were completed as part of an Intro to Cartography course, GEOG 370. Each project highlights different aspects of cartographic design, GIS, and data visualization. The projects were created using **ArcGIS Pro**, **Adobe Illustrator**, and various online tools such as Projection Wizard and Mapshaper.
 
@@ -59,3 +59,6 @@ This self-driven project combined all the material covered in the course: cartog
 ---
 
 ##
+
+# General GIS Project (GEOG 377: Intro to GIS)
+
