@@ -67,12 +67,12 @@ The following works were a result of a 6-week "project" as part of the lab porti
 **GIS Processes Used:**
 
 Spatial database compilation
-- Integrated heterogeneous data formats (JPEG, DWG, SHP, KML, JSON) into a single file geodatabase
+- Integrated different data formats (JPEG, DWG, SHP, KML, JSON) into a single file geodatabase
 - Merged all datasets into a common projected coordinate system, WGS 1984 UTM Zone 18N
 
 Georeferencing and digitization
 - Georeferenced a scanned land use map using control points and RMSE evaluation
-- Digitized land use boundaries and constructed polygon topology
+- Digitized land use boundaries and constructed polygons
 
 Vector-based suitability analysis
 - Applied buffer constraints
