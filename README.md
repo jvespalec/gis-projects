@@ -64,7 +64,7 @@ This self-driven project combined all the material covered in the course: cartog
 The following works were a result of a 6-week "project" as part of the lab portion of GEOG 377, Intro to GIS, focusing on identifying suitable sites for a hypothetical laboratory and office building. Using a provided land use map and corresponding spatial data, we evaluated site suitability through both vector and raster spatial analysis, incorporating various environmental and logistical constraints.
 
 
-**Core GIS Processes Utilized:**
+**GIS Processes Used:**
 
 Spatial database compilation
 - Integrated heterogeneous data formats (JPEG, DWG, SHP, KML, JSON) into a single file geodatabase
