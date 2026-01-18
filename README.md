@@ -69,19 +69,24 @@ The following works were a result of a 6-week "project" as part of the lab porti
 Spatial database compilation
 - Integrated heterogeneous data formats (JPEG, DWG, SHP, KML, JSON) into a single file geodatabase
 - Merged all datasets into a common projected coordinate system, WGS 1984 UTM Zone 18N
+
 Georeferencing and digitization
 - Georeferenced a scanned land use map using control points and RMSE evaluation
 - Digitized land use boundaries and constructed polygon topology
+
 Vector-based suitability analysis
 - Applied buffer constraints
 - Used attribute queries and overlay operations to identify suitable polygons
 - Produced potential candidate sites with clear and defined boundaries
+
 Vector-to-raster conversion
 - Converted vector layers into raster datasets
 - Selected an appropriate cell size based on analysis scale and constraints
+
 Raster distance analysis
 - Generated Euclidean distance rasters for sewer lines and streams
 - Applied distance thresholds using maximum distance parameters
+
 Raster overlay and map algebra
 - Combined multiple suitability rasters using Cell Statistics such as mean, minimum, and maximum
 - Evaluated how different overlay operators affect site selection outcomes
